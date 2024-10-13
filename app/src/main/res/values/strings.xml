@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">TaskManagerApp</string>
+    <string name="welcome_to_task_manager">Welcome to Task Manager</string>
+    <string name="task_details">Task Details</string>
+    <string name="task_name">Task Name</string>
+    <string name="task_description">Task Description</string>
+    <string name="save_task">Save Task</string>
+    <string-array name="theme_options">
+        <item>Light</item>
+        <item>Dark</item>
+    </string-array>
+
+    <string-array name="theme_values">
+        <item>light</item>
+        <item>dark</item>
+    </string-array>
+</resources>
